@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hi, I’m jim this is my first website . nice to meet you .'
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+    subtitle: here i want to intru myselft
     actions:
       - label: Contact Me
         url: /contact
